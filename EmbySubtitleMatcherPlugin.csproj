@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <AssemblyName>EmbySubtitleMatcherPlugin</AssemblyName>
+    <RootNamespace>EmbySubtitleMatcherPlugin</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediaBrowser.Common" Version="10.8.0" />
+    <PackageReference Include="MediaBrowser.Model" Version="10.8.0" />
+  </ItemGroup>
+
+</Project>

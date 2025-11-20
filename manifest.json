@@ -1,0 +1,9 @@
+{
+  "id": "SubtitleMatcher",
+  "name": "Subtitle Matcher",
+  "version": "1.0.0",
+  "description": "支持识别字幕文件名中的剧集编号和语言代码",
+  "targetAbi": "10.8.0.0",
+  "owner": "Custom",
+  "category": "Subtitles"
+}
